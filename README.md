@@ -1,4 +1,5 @@
 WeatherWise 🌤️
+
 WeatherWise is a feature-rich weather application that provides real-time weather updates, accurate forecasts, and interactive maps to help you stay informed about weather conditions in your area. Designed with a user-friendly interface, WeatherWise makes it easy to access the information you need, whether you’re planning your day or preparing for a trip.
 - Table of Contents
 - Features
@@ -17,6 +18,8 @@ WeatherWise is a feature-rich weather application that provides real-time weathe
   
 - Screenshots
 
+  ![Untitled design](https://github.com/user-attachments/assets/460e9857-3ed0-4a45-82fe-d10e853a4cbe)
+   
 - Usage
   Search for weather: Use the search functionality to find weather conditions by city or coordinates.
   Explore features: Swipe through the onboarding screens to learn about all available features.
