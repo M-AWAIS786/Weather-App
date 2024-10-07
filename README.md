@@ -18,7 +18,7 @@ WeatherWise is a feature-rich weather application that provides real-time weathe
   
 - Screenshots
 
-  ![Untitled design](https://github.com/user-attachments/assets/460e9857-3ed0-4a45-82fe-d10e853a4cbe)
+
    
 - Usage
   Search for weather: Use the search functionality to find weather conditions by city or coordinates.
